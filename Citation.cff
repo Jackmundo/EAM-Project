@@ -4,9 +4,6 @@ authors:
 - family-names: "Buttle"
   given-names: "Jack"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: ""
-  given-names: ""
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "EAM-Project"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
