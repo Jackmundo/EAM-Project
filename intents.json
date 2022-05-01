@@ -1,0 +1,28 @@
+{"intents": [
+  {"tag": "greeting",
+    "patterns": ["Hi", "Hello", "Is anyone there", "Good Day"],
+    "responses": ["Hello", "How can I help you today?", "Ask me anything, I'm here to help"],
+    "context_set": ""
+},
+{"tag": "support",
+    "patterns": ["Are you open?", "What Hallam Buildings are open?", "What is open?"],
+    "responses": ["We are currently closed, but our libraries are open 24/7", "Currently, some of our facilities are closed due to maintenance", "All buildings are open!"],
+    "context_set": ""
+},
+{"tag": "open day",
+    "patterns": ["Is there an open day?", "Any open days soon?", "I want to attend an open day", "Info about Open Day"],
+    "responses": ["There are no available open days at the moment", "Please visit our open day page on shu.ac.uk", "All of our open days have passed, please keep an eye for updates."],
+    "context_set": ""
+},
+{"tag": "Who are you?",
+    "patterns": ["What is your name", "Who are you?", "Tell me who you are"],
+    "responses": ["I'm SHU Support", "I was developed in an EAM Project", "Maybe I'm AI or maybe I'm human?"],
+    "context_set": ""
+},
+{"tag": "What do you do?",
+    "patterns": ["What's your purpose?", "What do you do?", "Who developed you?"],
+    "responses": ["I'm a support bot", "An EAM group developed me", "I was created for a final year EAM project."],
+    "context_set": ""
+}
+]
+}
